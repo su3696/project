@@ -1,9 +1,11 @@
 # 基于文心一言的微信公众号聊天系统
 
 # 介绍
-  本项目是基于文心一言的微信公众号聊天系统，该系统实现了将百度文心一言大模型接入微信公众号的聊天系统中。
+  本项目是基于文心一言的微信公众号聊天系统，该系统实现了将百度文心一言大模型接入微信公众号的聊天系统中。欢迎关注公众号sutest测试使用。
+  
+  ![image](https://github.com/su3696/project/blob/main/images/6.png)
 
-# 运行项目
+# 项目部署
 ## 1.准备微信公众平台账号
   进入微信公众平台主页（https://mp.weixin.qq.com/?token=&lang=zh_CN ），选择立刻注册，选择订阅号，依次填写好注册消息，这样成功申请了一个订阅号。
 ![image](https://github.com/su3696/project/blob/main/images/1.png)
@@ -30,17 +32,22 @@
     #安装
     make && make install
 ```
-## 4.项目部署
+## 4.项目克隆
   ```bash
     git clone https://github.com/su3696/project
 ```
 ## 5.配置config.json文件
 微信设置对应填写，文心一言相关需要进入百度智能云官网获取（https://cloud.baidu.com/ ）
 ![image](https://github.com/su3696/project/blob/main/images/4.png)
+![image](https://github.com/su3696/project/blob/main/images/5.png)
 
 ## 6.启动项目
 ```bash
   nohup python3 start.py & tail -f nohup.out
 ```
+
+启动完成后即可与公众号对话
+
+![image](https://github.com/su3696/project/blob/main/images/7.png)
 
 
