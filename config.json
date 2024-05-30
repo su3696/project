@@ -1,0 +1,16 @@
+{
+
+"channel_type": "wechatmp",
+"wechatmp_port": 8080,  
+"wechatmp_app_id": "wx6bfdb1d409edc2c7",  
+"wechatmp_app_secret": "2bcbf5cc9e051fbdb482ba43bfe6310e", 
+"wechatmp_token": "weixin",  
+"wechatmp_aes_key": "JVB5DOeridgBH8N4TL3kvMOmFtbN5sHToaHGq9oy18R",
+"model": "wenxin",
+"baidu_wenxin_api_key":"PG7gjGu1sr9rB4Pvy84puKwY",
+"baidu_wenxin_secret_key":"19r3bSR2pw9jj5CYamCpCQNedA2co5zZ",
+"single_chat_prefix": [""], 
+"single_chat_reply_prefix": "",
+"single_chat_reply_suffix": "",
+"subscribe_msg": ""
+}
