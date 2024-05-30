@@ -34,6 +34,13 @@
   ```bash
     git clone https://github.com/su3696/project
 ```
-## 5.配置config文件
+## 5.配置config.json文件
+微信设置对应填写，文心一言相关需要进入百度智能云官网获取（https://cloud.baidu.com/ ）
+![image](https://github.com/su3696/project/blob/main/images/4.png)
+
+## 6.启动项目
+```bash
+  nohup python3 start.py & tail -f nohup.out
+```
 
 
