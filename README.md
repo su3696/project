@@ -5,5 +5,5 @@
 
 # 运行项目
 ## 1.准备微信公众平台账号
-  进入微信公众平台主页（https://mp.weixin.qq.com/?token=&lang=zh_CN），选择立刻注册，选择订阅号，依次填写好注册消息，这样成功申请了一个订阅号。
+  进入微信公众平台主页（https://mp.weixin.qq.com/?token=&lang=zh_CN ），选择立刻注册，选择订阅号，依次填写好注册消息，这样成功申请了一个订阅号。
 ![image](https://github.com/su3696/project/blob/main/images/1.png)
